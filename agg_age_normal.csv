@@ -1,0 +1,422 @@
+season,contestant,age,normal
+1,Evander Holyfield,42.0,0.2
+1,Joey McIntyre,32.0,0.6
+1,John O'Hurley,50.0,0.8
+1,Kelly Monaco,29.0,1.0
+1,Rachel Hunter,35.0,0.4
+1,Trista Sutter,32.0,0.0
+2,Drew Lachey,29.0,1.0
+2,George Hamilton,66.0,0.555555556
+2,Giselle Fernandez,44.0,0.222222222
+2,Jerry Rice,43.0,0.888888889
+2,Kenny Mayne,46.0,0.0
+2,Lisa Rinna,42.0,0.666666667
+2,Master P,35.0,0.333333333
+2,Stacy Keibler,26.0,0.777777778
+2,Tatum O'Neal,42.0,0.111111111
+2,Tia Carrere,39.0,0.444444444
+3,Emmitt Smith,37.0,1.0
+3,Harry Hamlin,54.0,0.2
+3,Jerry Springer,62.0,0.6
+3,Joey Lawrence,30.0,0.8
+3,Mario Lopez,32.0,0.9
+3,Monique Coleman,25.0,0.7
+3,Sara Evans,35.0,0.5
+3,Shanna Moakler,31.0,0.1
+3,Tucker Carlson,37.0,0.0
+3,Vivica A. Fox,42.0,0.3
+3,Willa Ford,25.0,0.4
+4,Apolo Anton Ohno,24.0,1.0
+4,Billy Ray Cyrus,45.0,0.6
+4,Clyde Drexler,44.0,0.3
+4,Heather Mills,39.0,0.4
+4,Ian Ziering,42.0,0.7
+4,Joey Fatone,30.0,0.9
+4,John Ratzenberger,59.0,0.5
+4,Laila Ali,29.0,0.8
+4,Leeza Gibbons,50.0,0.2
+4,Paulina Porizkova,41.0,0.0
+4,Shandi Finnessey,28.0,0.1
+5,Albert Reed,22.0,0.090909091
+5,Cameron Mathison,38.0,0.636363636
+5,Floyd Mayweather Jr.,30.0,0.272727273
+5,Helio Castroneves,32.0,1.0
+5,Jane Seymour,56.0,0.545454545
+5,Jennie Garth,35.0,0.727272727
+5,Josie Maran,29.0,0.0
+5,Marie Osmond,47.0,0.818181818
+5,Mark Cuban,49.0,0.363636364
+5,Mel B,32.0,0.909090909
+5,Sabrina Bryan,23.0,0.454545455
+5,Wayne Newton,65.0,0.181818182
+6,Adam Carolla,43.0,0.272727273
+6,Cristian de la Fuente,34.0,0.818181818
+6,Jason Taylor,33.0,0.909090909
+6,Kristi Yamaguchi,36.0,1.0
+6,Mario,21.0,0.636363636
+6,Marissa Jaret Winokur,35.0,0.727272727
+6,Marlee Matlin,42.0,0.454545455
+6,Monica Seles,34.0,0.090909091
+6,Penn Jillette,53.0,0.0
+6,Priscilla Presley,62.0,0.363636364
+6,Shannon Elizabeth,34.0,0.545454545
+6,Steve Guttenberg,49.0,0.181818182
+7,Brooke Burke,37.0,1.0
+7,Cloris Leachman,82.0,0.5
+7,Cody Linley,18.0,0.75
+7,Jeffrey Ross,43.0,0.0
+7,Kim Kardashian,27.0,0.166666667
+7,Lance Bass,29.0,0.833333333
+7,Maurice Greene,34.0,0.666666667
+7,Misty May-Treanor,31.0,0.25
+7,Rocco DiSpirito,41.0,0.333333333
+7,Susan Lucci,61.0,0.583333333
+7,Ted McGinley,50.0,0.083333333
+7,Toni Braxton,40.0,0.416666667
+7,Warren Sapp,35.0,0.916666667
+8,Belinda Carlisle,50.0,0.0
+8,Chuck Wicks,29.0,0.583333333
+8,David Alan Grier,52.0,0.333333333
+8,Denise Richards,38.0,0.083333333
+8,Gilles Marini,33.0,0.916666667
+8,Holly Madison,30.0,0.166666667
+8,Lawrence Taylor,50.0,0.5
+8,Lil' Kim,34.0,0.666666667
+8,Melissa Rycroft,26.0,0.833333333
+8,Shawn Johnson,17.0,1.0
+8,Steve Wozniak,58.0,0.25
+8,Steve-O,34.0,0.416666667
+8,Ty Murray,39.0,0.75
+9,Aaron Carter,21.0,0.733333333
+9,Ashley Hamiliton,34.0,0.0
+9,Chuck Liddell,39.0,0.333333333
+9,Debi Mazar,45.0,0.266666667
+9,Donny Osmond,51.0,1.0
+9,Joanna Krupa,30.0,0.8
+9,Kathy Ireland,46.0,0.133333333
+9,Kelly Osbourne,24.0,0.866666667
+9,Louie Vito,21.0,0.533333333
+9,Macy Gray,42.0,0.066666667
+9,Mark Dacascos,45.0,0.666666667
+9,Melissa Joan Hart,33.0,0.466666667
+9,Michael Irvin,43.0,0.6
+9,Mya,29.0,0.933333333
+9,Natalie Coughlin,27.0,0.4
+9,Tom DeLay,62.0,0.2
+10,Aiden Turner,32.0,0.2
+10,Buzz Aldrin,80.0,0.1
+10,Chad Ochocinco,32.0,0.7
+10,Erin Andrews,32.0,0.8
+10,Evan Lysacek,24.0,0.9
+10,Jake Pavelka,32.0,0.4
+10,Kate Gosselin,35.0,0.3
+10,Nicole Scherzinger,31.0,1.0
+10,Niecy Nash,40.0,0.6
+10,Pamela Anderson,42.0,0.5
+10,Shannen Doherty,38.0,0.0
+11,Audrina Patridge,25.0,0.454545455
+11,Brandy,31.0,0.727272727
+11,Bristol Palin,19.0,0.818181818
+11,David Hasselhoff,58.0,0.0
+11,Florence Henderson,76.0,0.363636364
+11,Jennifer Grey,50.0,1.0
+11,Kurt Warner,39.0,0.636363636
+11,Kyle Massey,19.0,0.909090909
+11,Margaret Cho,41.0,0.181818182
+11,Michael Bolton,57.0,0.090909091
+11,Rick Fox,41.0,0.545454545
+11,The Situation,28.0,0.272727273
+12,Chelsea Kane,22.0,0.8
+12,Chris Jericho,40.0,0.4
+12,Hines Ward,35.0,1.0
+12,Kendra Wilkinson,25.0,0.5
+12,Kirstie Alley,60.0,0.9
+12,Mike Catherwood,32.0,0.0
+12,Petra Nemcova,31.0,0.3
+12,Ralph Macchio,49.0,0.7
+12,Romeo,21.0,0.6
+12,Sugar Ray Leonard,54.0,0.2
+12,Wendy Williams,46.0,0.1
+13,Carson Kressley,41.0,0.3
+13,Chaz Bono,42.0,0.4
+13,Chynna Phillips,43.0,0.2
+13,David Arquette,40.0,0.5
+13,Elisabetta Canalis,33.0,0.0
+13,Hope Solo,30.0,0.7
+13,J.R. Martinez,28.0,1.0
+13,Kristin Cavallari,24.0,0.1
+13,Metta World Peace (Ron),31.0,0.0
+13,Nancy Grace,51.0,0.6
+13,Ricki Lake,42.0,0.8
+13,Rob Kardashian,24.0,0.9
+14,Donald Driver,37.0,1.0
+14,Gavin DeGraw,35.0,0.272727273
+14,Gladys Knight,67.0,0.363636364
+14,Jack Wagner,52.0,0.090909091
+14,Jaleel White,35.0,0.454545455
+14,Katherine Jenkins,31.0,0.909090909
+14,Maria Menounos,33.0,0.727272727
+14,Martina Navratilova,55.0,0.0
+14,Melissa Gilbert,47.0,0.636363636
+14,Roshon Fegan,20.0,0.545454545
+14,Sherri Sheperd,44.0,0.181818182
+14,William Levy,31.0,0.818181818
+15,Apolo Anton Ohno,24.0,0.666666667
+15,Bristol Palin,19.0,0.333333333
+15,Drew Lachey,29.0,0.166666667
+15,Emmitt Smith,37.0,0.75
+15,Gilles Marini,33.0,0.583333333
+15,Helio Castroneves,32.0,0.25
+15,Joey Fatone,30.0,0.083333333
+15,Kelly Monaco,29.0,0.833333333
+15,Kirstie Alley,60.0,0.5
+15,Melissa Rycroft,26.0,1.0
+15,Pamela Anderson,42.0,0.0
+15,Sabrina Bryan,23.0,0.416666667
+15,Shawn Johnson,17.0,0.916666667
+16,Alexandra Raisman,18.0,0.727272727
+16,Andy Dick,47.0,0.454545455
+16,D. L. Hughley,50.0,0.272727273
+16,Dorothy Hamill,56.0,0.0
+16,Ingo Rademacher,41.0,0.636363636
+16,Jacoby Jones,28.0,0.818181818
+16,Kellie Pickler,26.0,1.0
+16,Lisa Vanderpump,52.0,0.181818182
+16,Sean Lowe,29.0,0.545454545
+16,Victor Ortiz,26.0,0.363636364
+16,Wynonna Judd,48.0,0.090909091
+16,Zendaya,16.0,0.909090909
+17,Amber Riley,27.0,1.0
+17,Bill Engvall,56.0,0.727272727
+17,Bill Nye,57.0,0.090909091
+17,Brant Daugherty,28.0,0.454545455
+17,Christina Milian,31.0,0.272727273
+17,Corbin Bleu,24.0,0.909090909
+17,Elizabeth Berkley Lauren,39.0,0.545454545
+17,Jack Osbourne,27.0,0.818181818
+17,Keyshawn Johnson,41.0,0.0
+17,Leah Remini,43.0,0.636363636
+17,"Nicole ""Snooki"" Polizzi",25.0,0.363636364
+17,Valerie Harper,74.0,0.181818182
+18,Amy Purdy,34.0,0.9
+18,Billy Dee Williams,76.0,0.1
+18,Candace Cameron Bure,37.0,0.8
+18,Charlie White,26.0,0.6
+18,Cody Simpson,17.0,0.2
+18,Danica McKellar,39.0,0.5
+18,Diana Nyad,64.0,0.0
+18,Drew Carey,55.0,0.3
+18,James Maslow,23.0,0.7
+18,Meryl Davis,27.0,1.0
+18,NeNe Leakes,46.0,0.4
+18,Sean Avery,33.0,0.0
+19,Alfonso Ribeiro,42.0,1.0
+19,Antonio Sabato Jr.,42.0,0.416666667
+19,Bethany Mota,18.0,0.75
+19,Betsey Johnson,72.0,0.25
+19,Janel Parrish,25.0,0.833333333
+19,Jonathan Bennett,33.0,0.333333333
+19,Lea Thompson,53.0,0.583333333
+19,Lolo Jones,32.0,0.0
+19,Michael Waltrip,51.0,0.5
+19,Randy Couture,51.0,0.166666667
+19,Sadie Robertson,17.0,0.916666667
+19,Tavis Smiley,50.0,0.083333333
+19,Tommy Chong,76.0,0.666666667
+20,Charlotte McKinney,21.0,0.090909091
+20,Chris Soules,33.0,0.636363636
+20,Michael Sam,25.0,0.181818182
+20,Nastia Liukin,25.0,0.727272727
+20,Noah Galloway,33.0,0.818181818
+20,Patti LaBelle,70.0,0.363636364
+20,Redfoo,39.0,0.0
+20,Riker Lynch,23.0,0.909090909
+20,Robert Herjavec,52.0,0.545454545
+20,Rumer Willis,26.0,1.0
+20,Suzanne Somers,68.0,0.272727273
+20,Willow Shields,14.0,0.454545455
+21,Alek Skarlatos,22.0,0.833333333
+21,Alexa PenaVega,27.0,0.583333333
+21,Andy Grammer,31.0,0.5
+21,Bindi Irwin,17.0,1.0
+21,Carlos PenaVega,26.0,0.75
+21,Chaka Khan,62.0,0.0
+21,Gary Busey,71.0,0.25
+21,Hayes Grier,15.0,0.416666667
+21,Kim Zolciak-Biermann,37.0,0.166666667
+21,Nick Carter,35.0,0.916666667
+21,Paula Deen,68.0,0.333333333
+21,Tamar Braxton,38.0,0.666666667
+21,Victor Espinoza,43.0,0.083333333
+22,Antonio Brown,27.0,0.636363636
+22,Doug Flutie,53.0,0.272727273
+22,Geraldo Rivera,72.0,0.0
+22,Ginger Zee,35.0,0.818181818
+22,Jodie Sweetin,34.0,0.545454545
+22,Kim Fields,46.0,0.363636364
+22,Marla Maples,52.0,0.181818182
+22,Mischa Barton,30.0,0.090909091
+22,Nyle DiMarco,26.0,1.0
+22,Paige VanZant,22.0,0.909090909
+22,Von Miller,27.0,0.454545455
+22,Wanya Morris,42.0,0.727272727
+23,Amber Rose,32.0,0.333333333
+23,Babyface,57.0,0.166666667
+23,Calvin Johnson Jr.,30.0,0.833333333
+23,Jake T. Austin,21.0,0.0
+23,James Hinchcliffe,29.0,0.916666667
+23,Jana Kramer,32.0,0.75
+23,Laurie Hernandez,16.0,1.0
+23,Marilu Henner,64.0,0.583333333
+23,Maureen McCormick,60.0,0.416666667
+23,Rick Perry,66.0,0.083333333
+23,Ryan Lochte,32.0,0.5
+23,Terra Jole,36.0,0.666666667
+23,Vanilla Ice,48.0,0.25
+24,Bonner Bolton,29.0,0.636363636
+24,Charo,66.0,0.090909091
+24,Chris Kattan,46.0,0.0
+24,David Ross,40.0,0.909090909
+24,Erika Jayne,45.0,0.272727273
+24,Heather Morris,30.0,0.363636364
+24,Mr. T,64.0,0.181818182
+24,Nancy Kerrigan,47.0,0.454545455
+24,Nick Viall,36.0,0.545454545
+24,Normani,20.0,0.818181818
+24,Rashad Jennings,32.0,1.0
+24,Simone Biles,20.0,0.727272727
+25,Barbara Corcoran,68.0,0.0
+25,Debbie Gibson,47.0,0.083333333
+25,Derek Fisher,43.0,0.166666667
+25,Drew Scott,39.0,0.75
+25,Frankie Muniz,31.0,0.833333333
+25,Jordan Fisher,23.0,1.0
+25,Lindsey Stirling,31.0,0.916666667
+25,Nick Lachey,43.0,0.333333333
+25,Nikki Bella,33.0,0.416666667
+25,Sasha Pieterse,21.0,0.25
+25,Terrell Owens,43.0,0.583333333
+25,Vanessa Lachey,36.0,0.5
+25,Victoria Arlen,22.0,0.666666667
+26,Adam Rippon,28.0,1.0
+26,Arike Ogunbowale,21.0,0.333333333
+26,Chris Mazdzer,29.0,0.555555556
+26,Jamie Anderson,27.0,0.0
+26,Jennie Finch Daigle,37.0,0.444444444
+26,Johnny Damon,44.0,0.111111111
+26,Josh Norman,30.0,0.888888889
+26,Kareem Abdul-Jabbar,71.0,0.222222222
+26,Mirai Nagasu,25.0,0.666666667
+26,Tonya Harding,47.0,0.777777778
+27,Alexis Ren,21.0,0.75
+27,Bobby Bones,38.0,1.0
+27,Danelle Umstead,46.0,0.083333333
+27,DeMarcus Ware,36.0,0.5
+27,Evanna Lynch,27.0,0.833333333
+27,Joe Amabile,32.0,0.583333333
+27,John Schneider,58.0,0.416666667
+27,Juan Pablo Di Pace,39.0,0.666666667
+27,Mary Lou Retton,50.0,0.333333333
+27,Milo Manheim,17.0,0.916666667
+27,Nancy McKeon,52.0,0.166666667
+27,Nikki Glaser,34.0,0.0
+27,Tinashe,25.0,0.25
+28,Ally Brooke,26.0,0.818181818
+28,Hannah Brown,24.0,1.0
+28,James Van Der Beek,42.0,0.636363636
+28,Karamo Brown,38.0,0.363636364
+28,Kate Flannery,55.0,0.454545455
+28,Kel Mitchell,41.0,0.909090909
+28,Lamar Odom,39.0,0.181818182
+28,Lauren Alaina,24.0,0.727272727
+28,Mary Wilson,75.0,0.0
+28,Ray Lewis,44.0,0.090909091
+28,Sailor Brinkley-Cook,21.0,0.272727273
+28,Sean Spicer,48.0,0.545454545
+29,AJ McLean,42.0,0.571428571
+29,Anne Heche,51.0,0.142857143
+29,Carole Baskin,59.0,0.071428571
+29,Charles Oakley,56.0,0.0
+29,Chrishell Stause,39.0,0.5
+29,Jeannie Mai,41.0,0.428571429
+29,Jesse Metcalfe,41.0,0.214285714
+29,Johnny Weir,36.0,0.642857143
+29,Justina Machado,48.0,0.785714286
+29,Kaitlyn Bristowe,35.0,1.0
+29,Monica Aldama,48.0,0.357142857
+29,Nelly,45.0,0.857142857
+29,Nev Schulman,35.0,0.928571429
+29,Skai Jackson,18.0,0.714285714
+29,Veron Davis,36.0,0.285714286
+30,Amanda Kloots,39.0,0.785714286
+30,Brian Austin Green,48.0,0.142857143
+30,Christine Chiu,38.0,0.071428571
+30,Cody Rigsby,34.0,0.857142857
+30,Iman Shumpert,31.0,1.0
+30,Jimmie Allen,36.0,0.571428571
+30,JoJo Siwa,18.0,0.928571429
+30,Kenya Moore,50.0,0.357142857
+30,Martin Kove,75.0,0.0
+30,Matt James,29.0,0.214285714
+30,Melanie C,47.0,0.285714286
+30,Melora Hardin,54.0,0.642857143
+30,"Mike ""The Miz"" Mizanin",40.0,0.428571429
+30,Olivia Jade,21.0,0.5
+30,Suni Lee,18.0,0.714285714
+31,Charli D'Amelio,18.0,1.0
+31,Cheryl Ladd,71.0,0.133333333
+31,Daniel Durant,32.0,0.733333333
+31,Gabby Windey,31.0,0.933333333
+31,Heidi D'Amelio,50.0,0.533333333
+31,Jason Lewis,51.0,0.0
+31,Jessie James Decker,34.0,0.4
+31,Jordin Sparks,32.0,0.466666667
+31,Joseph Baena,24.0,0.333333333
+31,Sam Champion,61.0,0.2
+31,Selma Blair,50.0,0.266666667
+31,Shangela,40.0,0.8
+31,Teresa Giudice,50.0,0.066666667
+31,Trevor Donovan,39.0,0.666666667
+31,Vinny Guadagnino,34.0,0.6
+31,Wayne Brady,50.0,0.866666667
+32,Adrian Peterson,38.0,0.230769231
+32,Alyson Hannigan,49.0,0.692307692
+32,Ariana Madix,38.0,0.846153846
+32,Barry Williams,68.0,0.538461538
+32,Charity Lawson,27.0,0.769230769
+32,Harry Jowsey,26.0,0.615384615
+32,Jamie Lynn Spears,32.0,0.076923077
+32,Jason Mraz,46.0,0.923076923
+32,Lele Pons,27.0,0.461538462
+32,Matt Walsh,58.0,0.0
+32,Mauricio Umansky,53.0,0.384615385
+32,Mira Sorvino,55.0,0.307692308
+32,Tyson Beckford,52.0,0.153846154
+32,Xochitl Gomez,17.0,1.0
+33,Anna Delvey,33.0,0.083333333
+33,Brooks Nader,27.0,0.333333333
+33,Chandler Kinney,24.0,0.833333333
+33,Danny Amendola,39.0,0.666666667
+33,Dwight Howard,38.0,0.583333333
+33,Eric Roberts,68.0,0.25
+33,Ilona Maher,28.0,0.916666667
+33,Jenn Tran,26.0,0.5
+33,Joey Graziadei,29.0,1.0
+33,Phaedra Parks,51.0,0.416666667
+33,Reginald VelJohnson,74.0,0.25
+33,Stephen Nedoroscik,26.0,0.75
+33,Tori Spelling,51.0,0.083333333
+34,Alix Earle,24.0,0.923076923
+34,Andy Richter,59.0,0.538461538
+34,Baron Davis,46.0,0.076923077
+34,Corey Feldman,54.0,0.076923077
+34,Danielle Fishel,44.0,0.461538462
+34,Dylan Efron,33.0,0.769230769
+34,Elaine Hendrix,55.0,0.692307692
+34,Hilaria Baldwin,41.0,0.230769231
+34,Jen Affleck,26.0,0.384615385
+34,Jordan Chiles,24.0,0.846153846
+34,Lauren Jauregui,29.0,0.153846154
+34,Robert Irwin,22.0,1.0
+34,Scott Hoying,34.0,0.307692308
+34,Whitney Leavitt,32.0,0.615384615
